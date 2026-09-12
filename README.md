@@ -2,9 +2,7 @@
 
 It is a Fast-action arcade space shooter built with HTML5 + JavaScript. Two modes of play – defend the galaxy from the front line in 180° Mode or take on the full 360° Mode.
 ## Preview
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png) this is my best score try to beat it.
+![Uploading Screenshot 2026-09-09 211008.png…]()
 
 ## Modes
 
