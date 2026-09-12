@@ -1,20 +1,20 @@
 # Space War
 
-It is a Fast-action arcade space shooter built with HTML5 + JavaScript. Two modes of play – defend the galaxy from the front line in 180° Mode or take on the full 360° Mode.
+It is a Fast-action space shooter built with HTML5 + JavaScript. Two modes of play – defend the galaxy from the front line in 180° Mode or take on the full 360° Mode.
 ## Preview
 <img width="1898" height="905" alt="Screenshot 2026-09-09 211008" src="https://github.com/user-attachments/assets/5666c96c-0040-492c-ad2c-813b86376464" />
 
 ## Modes
 
-180° Mode (Forward War Zone): enemies attack only from the front.Upgrade your forward firepower, keep your health intact and hold the front line against enemy scouts, fighters, heavy cruisers and bosses.
-360° Mode (Open War Zone): no restrictions – enemies attack from all directions. Dodge enemy fire, roll across the screen, collect crystals to level up.
+180° Mode: enemies attack only from the front.
+360° Mode: no restrictions enemies attack from all directions. 
 
 ## Features
 
-Custom upgrade system: level up during gameplay to unlock various upgrades such as Multi-Beam Cannons, damage boost, fire rate increase, speed boost and hull repair.
+ level up during gameplay to unlock various upgrades such as Multi-Beam Cannons, damage boost, fire rate increase etc.
 Boss battles: battle powerful bosses on specific levels.
-Local storage leaderboard: track your high scores, survival time and total runs for both modes.
-No external assets: built with pure HTML5, CSS3 and JavaScript with procedural Web Audio synthesis – no images or audio needed.
+Local storage leaderboard: track your high score 
+built with pure HTML5, CSS3 and JavaScript
 
 How to play:
 
