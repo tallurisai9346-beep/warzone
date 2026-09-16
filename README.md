@@ -6,8 +6,6 @@ HTML5, CSS3 and JavaScript.
 
 There are two game modes: 180° and 360°
 
-## Preview
-<img width="1898" height="905" alt="Screenshot 2026-09-09 211008" src="https://github.com/user-attachments/assets/5666c96c-0040-492c-ad2c-813b86376464" />
 
 ## Game modes
 
@@ -150,6 +148,10 @@ More upgrades
 Better mobile controls
 
 Online leaderboard
+
+## Preview
+<img width="1898" height="905" alt="Screenshot 2026-09-09 211008" src="https://github.com/user-attachments/assets/5666c96c-0040-492c-ad2c-813b86376464" />
+
 
 ## License
 
